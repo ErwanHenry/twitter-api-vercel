@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/twitter.js": {
+    "api/*.js": {
       "maxDuration": 10
     }
   }
