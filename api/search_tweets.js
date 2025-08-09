@@ -9,10 +9,10 @@ export default async (req, res) => {
   if (!query) return res.status(400).json({ error: "query required" });
   
   const client = new TwitterApi({
-    appKey: process.env.TW_API_KEY,
-    appSecret: process.env.TW_API_SECRET,
-    accessToken: process.env.TW_ACCESS_TOKEN,
-    accessSecret: process.env.TW_ACCESS_SECRET,
+    appKey: process.env.TWITTER_API_KEY,
+    appSecret: process.env.TWITTER_API_SECRET,
+    accessToken: process.env.TWITTER_ACCESS_TOKEN,
+    accessSecret: process.env.TWITTER_ACCESS_SECRET,
   });
   
   try {
