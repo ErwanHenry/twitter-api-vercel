@@ -1,0 +1,12 @@
+{
+  "name": "twitter-api-vercel",
+  "version": "1.0.0",
+  "description": "Twitter API for KaspaToolKit - Vercel Deployment",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.17.2"
+  }
+}
