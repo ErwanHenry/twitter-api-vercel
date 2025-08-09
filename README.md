@@ -3,11 +3,11 @@
 
 ## 🚀 Déploiement en un clic
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVOTRE_USERNAME%2Ftwitter-api-vercel&env=TWITTER_API_KEY,TWITTER_API_SECRET,TWITTER_ACCESS_TOKEN,TWITTER_ACCESS_SECRET,API_SECRET_TOKEN&envDescription=Twitter%20API%20credentials%20and%20auth%20token&project-name=twitter-api&repository-name=twitter-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FErwanHenry%2Ftwitter-api-vercel&env=TWITTER_API_KEY,TWITTER_API_SECRET,TWITTER_ACCESS_TOKEN,TWITTER_ACCESS_SECRET,API_SECRET_TOKEN&envDescription=Twitter%20API%20credentials%20and%20auth%20token&project-name=twitter-api&repository-name=twitter-api)
 
 ## Configuration
 
-1. Remplacez VOTRE_USERNAME par votre nom d'utilisateur GitHub
+1. Remplacez ErwanHenry par votre nom d'utilisateur GitHub
 2. Cliquez sur le bouton de déploiement
 3. Remplissez vos clés Twitter
 4. Générez un token secret aléatoire pour API_SECRET_TOKEN
