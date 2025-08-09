@@ -1,5 +1,5 @@
 import { TwitterApi } from "twitter-api-v2";
-import { checkAuth } from "./_utils/auth";
+import { checkAuth } from "./_utils/auth.js";
 
 export const config = { api: { bodyParser: { sizeLimit: "8mb" } } };
 

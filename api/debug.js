@@ -1,4 +1,4 @@
-import { checkAuth } from "./_utils/auth";
+import { checkAuth } from "./_utils/auth.js";
 
 export default async (req, res) => {
   if (req.method !== "POST") return res.status(405).end();
